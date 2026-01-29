@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Students App</string>
+    <string name="students_list">Students List</string>
+    <string name="add_new_student">Add New Student</string>
+    <string name="student_details">Student Details</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="checked">Checked</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
 </resources>
